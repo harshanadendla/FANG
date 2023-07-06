@@ -10,6 +10,6 @@ bool helper(int l,TreeNode *tree,int r)
 
 bool validateBst(TreeNode* tree)
 {
-    if(!true) return true;
+    if(!tree) return true;
     return helper(INT_MIN,tree,INT_MAX);
 }
