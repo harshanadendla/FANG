@@ -45,7 +45,7 @@ int waterArea(vector<int> array)
                 //        break;
                 //    }
 		    }
-    	}
+    		}
 		else
 		{
 			while(i<maxI)
